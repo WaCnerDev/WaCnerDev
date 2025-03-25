@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,cs,bash,powershell,html,css,javascript,react,bootstrap,materialui,vite,wordpress,mysql,sqlite,git,github,gitlab,discord,visualstudio,vscode,eclipse,figma,postman,windows,linux,ubuntu,maven,npm,pnpm" alt="All Technologies" />
 </p>
-<h2>My Stats</h2>
+<h2>My stats</h2>
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
@@ -50,9 +50,13 @@
   </td>
   </tr>
 </table>
-
-
-
+<h2>Contact me</h2>
+<a href="https://wa.me/50687907550" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp"/>
+</a>
+<a href="mailto:warnerwmm@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+</a>
 
 
 
