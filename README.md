@@ -1,50 +1,26 @@
-## Hi there 👋
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
-<br>
+<h1 align="center">Hi  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm Warner Moscoso < Web Developer /> <br> Welcome to my Github profile!</h1> 
+<h2> 🐐 About me </h2>
+<!--Intro start-->
+<p>🔭 I’m currently working on AWS, React, React Native, Nodejs, MongoDB </p>
+<p>🌱 I’m currently learning to put together multiple Hyper Beast Stack for Scalable Applications.</p>
+<p>☁️ I've keen interest in cloud computing. So, I'm learning AWS</p>
+<p>💬 Ask me about AWS, react, react-native, nodejs, mongoDB</p>
+<p>📫 Feel free to reach me out warnerwmm@gmail.com</p>
+<!--Intro end-->
+<h2> 🛠 Languages and Tools </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,cs,bash,powershell,html,css,javascript,react,bootstrap,materialui,vite,wordpress,mysql,sqlite,git,github,gitlab,discord,visualstudio,vscode,eclipse,figma,postman,windows,linux,ubuntu,maven,npm,pnpm" alt="All Technologies" />
+</p>
 
 <table>
-  <tr>
-    <td>
-      <h3> Programming Languages</h3>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,js,cs" alt="Programming Languages" />
-        </a>
-      </p>
-    </td>
-    <td>
-      <h3> Frontend Technologies</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,react" alt="Frontend Technologies" />
-      </p>
-    </td>
-    <td>
-      <h3>♾️ Data Base</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,sqlite " alt="Collaboration tools" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-<h3>♾️ Collaboration tools</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,discord" alt="Collaboration tools" />
-      </p>
-    </td>
-    <td>
-<h3> IDEs/Editors</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse" alt="IDEs/Editors" />
-      </p>
-    </td>
-    <td>
-      
-<h3>️ Operating Systems</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" alt="Operating Systems" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td>
+<h2>My Social Media</h2>
+</td>
+<td>
+<h2>Contact me</h2>
+</td>
+</tr>
 </table>
+
+
