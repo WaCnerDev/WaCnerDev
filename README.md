@@ -46,12 +46,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,cs,bash,powershell,html,css,javascript,react,bootstrap,materialui,vite,wordpress,mysql,sqlite,git,github,gitlab,discord,visualstudio,vscode,eclipse,figma,postman,windows,linux,ubuntu,maven,npm,pnpm" alt="All Technologies" />
 </p>
-<h2>Certifications</h2>
+<h2> 🎖️ Certifications</h2>
 <p align="center">
   <img src="https://i.pinimg.com/736x/7b/68/ae/7b68ae35737786295d052a9f641deed8.jpg" alt="Constructor dog" />
   <p align="center">THIS SECTION IS INDER CONSTRUCTION, PLEASE ADVANCE. </p>
 </p>
-<h2>My stats</h2>
+<h2> 📈 My stats</h2>
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
