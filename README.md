@@ -10,17 +10,17 @@
   </thead>
   <tr>
     <td>
-      <p>🎓 Graduate without going blind or bald. <em>(...or sobbing in a fetal position)</em></p>
+      <p>🎓 Graduate without going blind or bald.</p>
       <p>📝 Document code... with comments like <code>"this works, don't touch it"</code> </p>
       <p>⚡ Quick respawn <em>(I recover from auto-rejections in seconds)</em></p>
       <p>🤖 Using Stack Overflow when AI fails me <em>(*cough* ChatGPT *cough*)</em></p>
       <p>🔍 Finding the missing semicolon after 3 hours of existential crisis&nbsp;<em>*I&nbsp;was programming in Python*☠️</em></p>
-      <p>🤫 Que compile aunque sea con cinta y pegamento</p>
+      <p>🤫 Que compile, aunque sea con cinta y pegamento</p>
     </td>
     <td>
       <p>💰 Get paid in <strong>money</strong>, not "exposure" <em>(my cats and dogs demands premium kibble)</em> 🐱👑</p>
       <p>👪 Where "we’re family" ≠ cult meetings at 3 AM </p>
-      <p>📜 Actually use my degree <em>(instead of just decorating my grandma’s fridge)</em></p>
+      <p>📜 Honestly... use my degree <em>(instead of just decorating my grandma’s fridge)</em></p>
       <p>⏳ Sprint plannings shorter than a <em>One Piece</em> arc 🏃‍♂️💨</p>
       <p>❤️ Make my family proud and give them what they deserve.</p>
     </td>
@@ -40,10 +40,13 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=WaCnerDev&theme=dracula&show_icons=true&count_private=true" />
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=WaCnerDev&theme=dracula&&bg_color=45,221C31,4B3D73&icon_color=D484F4&hide_border=true&border_radius=8&title_color=89B4FA&show_icons=true&count_private=true" />
+      <br>
+      <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=WaCnerDev&theme=dark-minimalist&hide_border=true&border_radius=8&mode=weekly&background=45%2C221C31%2C4B3D73" alt="GitHub Streak" />
     </td>
   <td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WaCnerDev&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WaCnerDev&theme=dracula&&bg_color=45,221C31,4B3D73&icon_color=D484F4&hide_border=true&border_radius=8&title_color=89B4FA&show_icons=true&langs_count=10"/>
   </td>
   </tr>
 </table>
