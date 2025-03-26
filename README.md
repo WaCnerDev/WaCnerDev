@@ -32,7 +32,7 @@
       <p>👪 Where "we’re family" ≠ cult meetings at 3 AM </p>
       <p>📜 Honestly... use my degree <em>(instead of just decorating my grandma’s fridge)</em></p>
       <p>⏳ Sprint plannings shorter than a <em>One Piece</em> arc 🏃‍♂️💨</p>
-      <p>❤️ Make my family proud and give them what they deserve.</p>
+      <p>❤️ Building a solid future for my family.</p>
     </td>
   </tr>
 </table>
