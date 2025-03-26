@@ -53,19 +53,19 @@
 </p>
 <h2> 📈 My stats</h2>
 <table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=WaCnerDev&theme=dracula&&bg_color=45,221C31,4B3D73&icon_color=D484F4&hide_border=true&border_radius=8&title_color=89B4FA&show_icons=true&count_private=true" />
-      <br>
-      <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=WaCnerDev&theme=dark-minimalist&hide_border=true&border_radius=8&mode=weekly&background=45%2C221C31%2C4B3D73" alt="GitHub Streak" />
-    </td>
-  <td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WaCnerDev&theme=dracula&&bg_color=45,221C31,4B3D73&icon_color=D484F4&hide_border=true&border_radius=8&title_color=89B4FA&langs_count=10"/>
-  </td>
+  <tr>
+        <td align="center">
+          <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=WaCnerDev&theme=dracula&&bg_color=45,221C31,4B3D73&icon_color=D484F4&hide_border=true&border_radius=8&title_color=89B4FA&show_icons=true&count_private=true"/>
+          <br>
+          <br>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=WaCnerDev&theme=dark-minimalist&hide_border=true&border_radius=8&mode=weekly&background=45%2C221C31%2C4B3D73" alt="GitHub Streak" /></a>
+        </td>
+        <td align="center">
+          <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WaCnerDev&theme=dracula&&bg_color=45,221C31,4B3D73&icon_color=D484F4&hide_border=true&border_radius=8&title_color=89B4FA&langs_count=10"/>
+        </td>
   </tr>
 </table>
-<h2>Contact me</h2>
+<h2> 📪 Contact me</h2>
 <br>
 <p align="center">
 <a href="https://wa.me/50687907550" target="_blank">
