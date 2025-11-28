@@ -1,13 +1,4 @@
 <h1 align="center">Hi  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm Warner Moscoso < Web Developer /> <br> Welcome to my Github profile!</h1> 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/WaCnerDev/WaCnerDev?color=5B61F4&label=GitHub%20Status&logo=github" alt="Activity Badge"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/WaCnerDev" target="_blank">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/WaCnerDEV">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/WaCnerDev/WaCnerDev">
-</p>
 <p align="center">🧘 Patience: 99/100 | ☕ Coffees/day: 3 | 👻 Ghost PRs: 12</p>
 <hr>
 <p><i>I’m Warner, a 25-year-old Costa Rican. I recently graduated in Business Computing from the University of Costa Rica and am currently seeking job opportunities to develop my professional career.</i></p>
