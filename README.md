@@ -1,5 +1,5 @@
 <h1 align="center">Hi  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm Warner Moscoso < Web Developer /> <br> Welcome to my Github profile!</h1> 
-<p align="center">🧘 Patience: 99/100 | ☕ Coffees/day: 3 | 👻 Ghost PRs: 12</p>
+<p align="center">🧘 Patience: 99/100 | ☕ Coffees/day: 3 | 🥱 Sleep Time: 3 hours</p>
 <hr>
 <p><i>I’m Warner, a 25-year-old Costa Rican. I recently graduated in Business Computing from the University of Costa Rica and am currently seeking job opportunities to develop my professional career.</i></p>
 <h2> 🐐 About me </h2>
